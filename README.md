@@ -83,7 +83,7 @@ File Explorer Lite is a lightweight, cross-platform graphical file explorer buil
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/file-explorer-lite/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/azario0/file-explorer-lite/issues) if you want to contribute.
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -94,7 +94,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-*(You should create a `LICENSE.txt` file in your repository containing the MIT License text if you choose this license.)*
 
 ---
 
